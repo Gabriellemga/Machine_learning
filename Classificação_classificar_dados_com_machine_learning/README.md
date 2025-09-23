@@ -34,7 +34,7 @@ Investimentos em campanhas de marketing podem ter impactos diferentes de acordo 
 
 ## 📚 Tecnologias Utilizadas
 
-- [Python 3.8+](https://www.python.org/)
+- [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
