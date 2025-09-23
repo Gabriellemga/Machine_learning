@@ -1,6 +1,6 @@
 # Análise de Adesão a Investimentos e Marketing 💰📈
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+
 
 Este repositório traz uma análise de dados de campanhas de marketing e adesão a produtos de investimento, com o objetivo de identificar fatores que influenciam a conversão de clientes, otimizar estratégias e apoiar decisões de negócio.
 
@@ -41,45 +41,12 @@ Investimentos em campanhas de marketing podem ter impactos diferentes de acordo 
 
 ---
 
-## ⚡ Como Rodar o Projeto
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/Joaovmir/aderencia_investimento.git
-cd aderencia_investimento
-````
-
-### 2. Instale as dependências
-
-```bash
-pip install pandas matplotlib seaborn
-```
-
-### 3. Estrutura dos Dados
+### Estrutura dos Dados
 
 A pasta `dados/` deve conter:
 
 * `marketing_investimento.csv`
   Base de dados das campanhas e adesão a produtos de investimento.
-
-### 4. Execute o notebook
-
-Abra e execute o arquivo `aderencia_investimento.ipynb` em seu ambiente Jupyter, VS Code ou Colab.
-
----
-
-## 📁 Estrutura do Projeto
-
-```
-aderencia_investimento/
-├── aderencia_investimento.ipynb
-├── dados/
-│   └── marketing_investimento.csv
-├── README.md
-```
-
----
 
 ## 🔎 Possíveis Expansões
 
@@ -90,6 +57,4 @@ aderencia_investimento/
 
 ```
 
-Se quiser adicionar detalhes das colunas do CSV, prints de gráficos, análises específicas ou novas seções, é só avisar!
-```
 
